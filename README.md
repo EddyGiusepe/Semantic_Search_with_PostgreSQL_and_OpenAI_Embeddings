@@ -1,0 +1,1 @@
+# Semantic_Search_with_PostgreSQL_and_OpenAI_Embeddings
