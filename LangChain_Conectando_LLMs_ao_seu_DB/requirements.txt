@@ -1,0 +1,5 @@
+numexpr
+langchain_experimental
+openai
+langchain
+google-search-results
