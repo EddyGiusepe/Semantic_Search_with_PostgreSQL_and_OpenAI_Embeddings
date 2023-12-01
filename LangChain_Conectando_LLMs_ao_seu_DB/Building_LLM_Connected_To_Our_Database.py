@@ -6,7 +6,7 @@ Funções OpenAI
 
 Link de estudo: https://python.langchain.com/docs/modules/agents/agent_types/openai_functions_agent
 
-Neste script realizamos queries.
+Neste script realizamos queries envolvendo nosso Db criado no outro script (Meu_DB_Sqlite.py).
 
 Execução:
 
