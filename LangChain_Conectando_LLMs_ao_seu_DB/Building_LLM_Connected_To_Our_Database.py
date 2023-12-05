@@ -74,8 +74,9 @@ tools = [
 agent = initialize_agent(tools=tools,
                          llm=llm,
                          agent=AgentType.OPENAI_FUNCTIONS,
-                         verbose=True
+                         verbose=False
                         )
 
 # Fazemos perguntas ao LLM:
-agent.run("Qual é o preço do produto mais caro?")
+#agent.run("Qual é o preço do produto mais caro?")
+agent.run("Quanto custa uma Desk?")
